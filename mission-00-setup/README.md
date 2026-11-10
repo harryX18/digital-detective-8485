@@ -9,4 +9,4 @@ Difficulties during the SETUP?
 --(2)File uploading
 
 How I resolved them?
---I revisited the older lecture notes and seeked help from some video tutorials from youtube too for the purpose.
+--I revisited the older lecture notes and seeked help from some video tutorials from youtube too for the purpose
